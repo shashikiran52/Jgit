@@ -1,0 +1,11 @@
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+File created: /Users/shashikiran.t/Downloads/project/LGrepo/exampleGitFile.txt
+File added to the index.
+Changes committed with message: Initial commit
+Remote 'origin' added with URL: https://github.com/shashikiran52/Jgit.git
+Changes pushed to remote repository.
+Repository created, file added, changes committed, successfully.
+
+Process finished with exit code 0

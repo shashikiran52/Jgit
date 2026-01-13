@@ -1,0 +1,10 @@
+public Class AAClshROtwTggVUyE
+{
+public Account createAccount(String name) 
+{
+Account a1= new Account(); 
+a1.Name = name; 
+//dc
+return a1;
+}
+}

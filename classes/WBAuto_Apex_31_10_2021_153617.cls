@@ -1,0 +1,1 @@
+public Class WBAuto_Apex_31_10_2021_153617 { public Account createAccount(String name) { Account a2= new Account(); a2.Name = name; return a2; } }
